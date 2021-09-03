@@ -1,0 +1,24 @@
+{
+  "name": "social-media-main",
+  "version": "1.0.0",
+  "description": "My social media application",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mevivek3620/Social-Media.git"
+  },
+  "author": "Vivek Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mevivek3620/Social-Media/issues"
+  },
+  "homepage": "https://github.com/mevivek3620/Social-Media#readme"
+}
