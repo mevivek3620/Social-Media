@@ -1,11 +1,11 @@
 Folders
-# Config  --> Holds all the configurations such as mongodb settings
+1.Config  --> Holds all the configurations such as mongodb settings
 
-# routes ---> storing all the paths such as home,about,contact etc. which it further passes to controller
+2.routes ---> storing all the paths such as home,about,contact etc. which it further passes to controller
 
-# controllers ---> functions that get executed on calling the corresponding routes
+3.controllers ---> functions that get executed on calling the corresponding routes
 
-# models ---> schemas
+4.models ---> schemas
 
-# views --> static files directory
+5.views --> static files directory
 
