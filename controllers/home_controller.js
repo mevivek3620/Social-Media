@@ -1,4 +1,9 @@
-module.exports.home = function(req,res){
-    console.log('Inside home controller');
-    res.send('Home page');
+module.exports.home = function(req, res){
+    console.log(req.cookies);
+    res.cookie('user_id', 25);
+    return res.render('home', {
+        title: "Home"
+    });
 }
+
+// module.exports.actionName = function(req, res){}
