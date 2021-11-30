@@ -18,5 +18,5 @@ used socket.io for implementing chat engine.
 Clone the project onto your local machine.  
 Then go to the directory.  
 npm install  
-npm start. 
+npm start.   
 Visit your app at http://localhost:8000.  
